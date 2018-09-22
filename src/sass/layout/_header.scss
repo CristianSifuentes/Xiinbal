@@ -5,7 +5,8 @@
     background-image:  linear-gradient(
       to right bottom, 
       rgba($color-primary-light, 0.8),
-      rgba($color-primary-dark, 0.8) ), url(https://images.wallpaperscraft.com/image/kitten_briton_look_kid_96414_1280x720.jpg)/*url(../img/wallpaper.jpg)*/;  
+      rgba($color-primary-dark, 0.8)), 
+      url("/assets/wallpaper.jpg");
     background-size: cover;
     background-position: top;
     position: relative;

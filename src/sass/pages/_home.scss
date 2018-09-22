@@ -9,8 +9,7 @@
     background-image:  linear-gradient(
       to right bottom, 
       rgba($color-primary-light, 0.8),
-      /*rgba($color-primary-dark, 0.8) ), url(../../assets/photo_2018-09-02_11-22-59.jpg); */
-      rgba($color-primary-dark, 0.8) ), url(https://images.wallpaperscraft.com/image/kitten_briton_look_kid_96414_1280x720.jpg);
+      rgba($color-primary-dark, 0.8) ), url("/assets/photo_2018-09-02_11-22-59.jpg");
       background-size: cover;
       transform: skewY(-7deg);
       margin-top: -10rem;
@@ -46,8 +45,7 @@
         rgba($color-white, .9) 0%, 
         rgba($color-white, .9) 50%, 
         transparent 50%), 
-        url(https://images.wallpaperscraft.com/image/kitten_briton_look_kid_96414_1280x720.jpg);
-        /*url(../../assets/nat-10.jpg);*/
+        url("/assets/nat-10.jpg");
 
 
   background-size: 100%;

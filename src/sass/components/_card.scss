@@ -73,16 +73,16 @@
 
         
         &--1{
-            background-image: linear-gradient(to right bottom, $color-secondary-light, $color-secondary-dark), url(https://images.wallpaperscraft.com/image/kitten_briton_look_kid_96414_1280x720.jpg)/*url(../img/nat-5.jpg)*/;
+            background-image: linear-gradient(to right bottom, $color-secondary-light, $color-secondary-dark), url("/assets/nat-5.jpg");
         }
 
         &--2{
-            background-image: linear-gradient(to right bottom, $color-primary-light, $color-primary-dark), url(https://images.wallpaperscraft.com/image/kitten_briton_look_kid_96414_1280x720.jpg)/*url(../img/nat-6.jpg)*/;
+            background-image: linear-gradient(to right bottom, $color-primary-light, $color-primary-dark), url("/assets/nat-6.jpg");
         }
 
 
         &--3{
-            background-image: linear-gradient(to right bottom, $color-tertiary-light, $color-tertiary-dark), url(https://images.wallpaperscraft.com/image/kitten_briton_look_kid_96414_1280x720.jpg) /*url(../img/nat-7.jpg)*/;
+            background-image: linear-gradient(to right bottom, $color-tertiary-light, $color-tertiary-dark), url("/assets/nat-7.jpg");
         }
     }
 
