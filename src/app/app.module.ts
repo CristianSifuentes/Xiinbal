@@ -11,6 +11,7 @@ import { SectionFeaturesComponent } from './pages/section-features/section-featu
 import { SectionToursComponent } from './pages/section-tours/section-tours.component';
 import { SectionStoriesComponent } from './pages/section-stories/section-stories.component';
 import { SectionBookComponent } from './pages/section-book/section-book.component';
+import { PopupComponent } from './layout/popup/popup.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +24,8 @@ import { SectionBookComponent } from './pages/section-book/section-book.componen
     SectionFeaturesComponent,
     SectionToursComponent,
     SectionStoriesComponent,
-    SectionBookComponent
+    SectionBookComponent,
+    PopupComponent
       ],
   imports: [
     BrowserModule
